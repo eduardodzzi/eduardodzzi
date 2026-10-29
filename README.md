@@ -67,14 +67,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 🚀 Philosophy
 > "I build software with a purpose: to turn complex problems into systems people trust and businesses can grow on."
 
